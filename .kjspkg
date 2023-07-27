@@ -1,0 +1,9 @@
+{
+    "author": "G_cat",
+    "description": "A script that makes it that hostile mobs can only spawn when the light level is 0, like in 1.19",
+    
+    "versions": [8],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
